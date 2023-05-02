@@ -18,3 +18,15 @@
 </ol>
 
 Bu hafta bir kod odevi yok, kurulumlarin yapildigina dair ekran ciktisi koymaniz yeterli .
+  
+# Assignment Week1 Answer: 
+### MSSQL Server
+![alt text](https://i.ibb.co/Wymwzbp/sqlserver.jpg)
+### Docker, PostgreSQL
+![alt text](https://i.ibb.co/Dgr17M2/DOCKER.jpg)
+### MSSQL Managment Studio
+![alt text](https://i.ibb.co/QkLMFXZ/MSSQLSERVER.jpg)
+### DBeaver 
+![alt text](https://i.ibb.co/41zwMSd/Dbeaver.jpg)
+### Postman kurulumları gerçekleştirilmiştir.
+![alt text](https://i.ibb.co/vBxqvRf/postman.jpg)
